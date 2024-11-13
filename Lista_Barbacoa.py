@@ -4,5 +4,6 @@ lista_barbacoa = {
     "cubata":["whisky_solo", "Ron"],
     "carbon":["encendedor","gas"],
     "herramientas":["cuchillo"]
-    "Juegos":["Uno"]
+    "Juegos":["Uno"],
+    "Tonto el que lo lea": ['bomba']
 }
