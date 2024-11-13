@@ -6,4 +6,5 @@ lista_barbacoa = {
     "herramientas":["cuchillo"]
     "Juegos":["Uno"],
     "Tonto el que lo lea": ['bomba']
+    "ordenador": ["ram", "procesador"]
 }
