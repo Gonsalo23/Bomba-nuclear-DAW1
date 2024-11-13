@@ -19,3 +19,5 @@ CEO: Jose Luis Marmol
 CO-CEO: Anderson Olivos
 Director: Nico Duran
 Sub-Director: Víctor Rebollo
+Utillero: Gonzalo Díaz
+
